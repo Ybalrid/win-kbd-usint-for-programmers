@@ -1,6 +1,6 @@
 # US International Layout (undead quote) for Windows
 
-(US INTernational but for PRoGramers :slight-smile:)
+(US INTernational but for PRoGrammers 🙂)
 
 By default, Windows includes a layout called United States-International, which allows typing many non-ASCII characters. It is very useful for several Latin-script based languages.
 
